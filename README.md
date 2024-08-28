@@ -1,5 +1,5 @@
-Health Insurance Claim Prediction
-Overview
+#Health Insurance Claim Prediction
+#Overview
 This project aims to predict health insurance claims using a dataset containing various features related to individuals' health and demographics. Multiple machine learning models are used to predict the claim amount based on these features, including Linear Regression, Decision Tree Regressor, Random Forest Regressor, and XGBoost Regressor. The models are evaluated on their performance across different cities to identify the best-performing model and to understand which model works best in different contexts.
 Data
 The dataset used is 1651277648862_healthinsurance.csv, which contains the following columns:
