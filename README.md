@@ -5,35 +5,7 @@ Overview:
 
 This project aims to predict health insurance claims using a dataset containing various features related to individuals' health and demographics. Multiple machine learning models are used to predict the claim amount based on these features, including Linear Regression, Decision Tree Regressor, Random Forest Regressor, and XGBoost Regressor. The models are evaluated on their performance across different cities to identify the best-performing model and to understand which model works best in different contexts.
 
-Data:
 
-The dataset used is 1651277648862_healthinsurance.csv, which contains the following columns:
-
-age: Age of the individual
-
-sex: Gender of the individual
-
-weight: Weight of the individual
-
-bmi: Body Mass Index of the individual
-
-hereditary_diseases: Whether the individual has hereditary diseases
-
-no_of_dependents: Number of dependents
-
-smoker: Whether the individual is a smoker
-
-city: City where the individual resides
-
-bloodpressure: Blood pressure of the individual
-
-diabetes: Whether the individual has diabetes
-
-regular_ex: Whether the individual has regular exercise
-
-job_title: Job title of the individual
-
-claim: Amount of the health insurance claim (target variable)
 
 
 ## Methodology:
